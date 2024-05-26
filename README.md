@@ -31,7 +31,7 @@ This project is a simple web application that generates a travel itinerary based
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/hasan0v/travel-planner.git
+    git clone https://github.com/hasan0v/travel-itinerary-generator.git
     ```
 
 2. Navigate to the project directory:
